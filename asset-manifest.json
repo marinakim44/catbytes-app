@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/catbytes-app/static/css/main.2863fc41.css",
+    "main.js": "/catbytes-app/static/js/main.3cf7d071.js",
+    "static/js/453.8cfac277.chunk.js": "/catbytes-app/static/js/453.8cfac277.chunk.js",
+    "static/media/logo.png": "/catbytes-app/static/media/logo.3770e329758edb2f6b1b.png",
+    "static/media/marcy.png": "/catbytes-app/static/media/marcy.3e2a92ce7da3230f9499.png",
+    "index.html": "/catbytes-app/index.html",
+    "main.2863fc41.css.map": "/catbytes-app/static/css/main.2863fc41.css.map",
+    "main.3cf7d071.js.map": "/catbytes-app/static/js/main.3cf7d071.js.map",
+    "453.8cfac277.chunk.js.map": "/catbytes-app/static/js/453.8cfac277.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2863fc41.css",
+    "static/js/main.3cf7d071.js"
+  ]
+}
